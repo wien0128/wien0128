@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 
 S
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wien0128&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wien0128a&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wien0128&show_icons=true&theme=midnight-purple) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wien0128a&layout=midnight-purple)
