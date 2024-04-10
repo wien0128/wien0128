@@ -1,19 +1,20 @@
-<!--
-**wien0128/wien0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hyunbin Kim, so far so good 👍
+=========
+I'm a college student hoping to get a job on the backend/server side.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+History
+-------
++ Department of Software, Chungbuk National University (2020. 03. ~ )
+
+
+Tech Stack
+----------
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wien0128&layout=compact&theme=dark)](https://github.com/wien0128/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wien0128&show_icons=true&theme=dark)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwien0128&count_bg=%23BB2649&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
