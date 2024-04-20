@@ -8,7 +8,7 @@ History
 + Department of Software, Chungbuk National University (2020. 03. ~ )
 
 
-Tech Stack
+Studying...
 ----------
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
