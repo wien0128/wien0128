@@ -2,7 +2,7 @@ So far so good <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.
 =========
 
 + Department of Software, Chungbuk National University (2020. 03. ~ )
-+ [kakao X goorm] 9oormthonUNIV 4th Backend Member (2025. 02. ~)
++ [kakao X goorm] 9oormthonUNIV 4th Backend Member (2025. 02. ~ 2025. 09) - 우수상
 
 
 Studying...
